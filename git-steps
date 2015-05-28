@@ -1,6 +1,0 @@
-create dir
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/ripperIsSick/hosts.git
-git push origin master
